@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Products from '../components/Products'
 import "./index.css"
 
